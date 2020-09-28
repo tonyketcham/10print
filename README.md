@@ -1,15 +1,17 @@
-# p5.js Svelte App
+# 10print using a p5.js Svelte App
 
-Ok hi! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
+very good! 👋👋🏿👋🏽👋🏻👋🏾👋
 
-This is a project skeleton for creating a [p5.js](https://p5js.org/) sketch in a [Svelte](https://svelte.dev) app.
+This was made by Dan Shiffman seeding his [wonderful teachings](https://www.youtube.com/watch?v=bEyTZ5ZZxZs) into my little brain! This is also my first formal step into generative algorithms beyond just thinking about them for a year.
 
-![p5-Svelte logo](https://raw.githubusercontent.com/tonyketcham/p5-svelte/nice/screely-1596170721775.png)
+The project uses my [project skeleton](https://github.com/tonyketcham/p5-svelte-template) for creating a [p5.js](https://p5js.org/) sketch in a [Svelte](https://svelte.dev) app.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+Feel free to clone and tweak this, and add contributions as pull requests!
+
+Or, to create your own new project based on that p5 template I'm using:
 
 ```bash
-npx degit tonyketcham/p5-svelte p5-svelte-app
+npx degit tonyketcham/p5-svelte-template 10print
 cd p5-svelte-app
 ```
 
@@ -20,7 +22,7 @@ _Note that you will need to have [Node.js](https://nodejs.org) installed._
 Install the dependencies...
 
 ```bash
-cd p5-svelte-app
+cd 10print
 npm install
 ```
 
