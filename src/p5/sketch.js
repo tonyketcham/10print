@@ -23,8 +23,8 @@ const workspace = (p5) => {
     p5.stroke(0);
     threshold = p5.random(1);
 
-    if (threshold < 0.33) p5.line(x, y, x + size, y + size);
-    else if (0.66 > threshold > 0.33) p5.line(x, y, x, y + size);
+    if (threshold < 0.1) p5.line(x, y, x + size, y + size);
+    else if (0.505 > threshold > 0.5) p5.line(x, y, x, y + size);
     else p5.line(x, y + size, x + size, y);
 
     x = x + size;
