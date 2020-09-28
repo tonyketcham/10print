@@ -1,6 +1,11 @@
-# 10print using a p5.js Svelte App
-
+<h1 align="center"># 10print using a p5.js Svelte App</h1>
+<p align="center">
 very good! 👋👋🏿👋🏽👋🏻👋🏾👋
+</p>
+
+<p align="center">
+  <img src="public/11print.png" alt="maybe this is like......11print i think?" width="300" height="300" />
+</p>
 
 This was made by Dan Shiffman seeding his [wonderful teachings](https://www.youtube.com/watch?v=bEyTZ5ZZxZs) into my little brain! This is also my first formal step into generative algorithms beyond just thinking about them for a year.
 
