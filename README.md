@@ -23,6 +23,8 @@ cd p5-svelte-app
 _Note that you will need to have [Node.js](https://nodejs.org) installed._
 
 ## Get started
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftonyketcham%2F10print.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftonyketcham%2F10print?ref=badge_shield)
+
 
 Install the dependencies...
 
@@ -149,3 +151,7 @@ surge public my-project.surge.sh
 ---
 
 This project is a fork of the [official Svelte template](https://github.com/sveltejs/template).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftonyketcham%2F10print.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftonyketcham%2F10print?ref=badge_large)
