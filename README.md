@@ -1,4 +1,4 @@
-<h1 align="center"># 10print using a p5.js Svelte App</h1>
+<h1 align="center">10print using a p5.js Svelte App</h1>
 <p align="center">
 very good! 👋👋🏿👋🏽👋🏻👋🏾👋
 </p>
